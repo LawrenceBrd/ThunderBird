@@ -1,1 +1,20 @@
 ThunderBird - Lorentio Brodesco
+
+ThunderBird is a portable device based on the Arduino UNO microcontroller, specifically the ATmega328. It originates as an idea inspired by the well-known FlipperZero, a tool that implements various devices for accessible hacking, provided one has the necessary skills.
+
+The creation of ThunderBird stems from the high inflated cost and limited availability of the Flipper Zero. Its design has proven valuable for studying and gaining a better understanding of the original device and the operating principles of its components.
+
+Due to its affordable price, ThunderBird cannot perform all the tasks of the FlipperZero, but it boasts the following features:
+- Infrared receiver with the ability to read and replay codes.
+- ESP-01 for capturing HandShakes.
+- 433 MHz AM transmitter.
+- Gyroscope and accelerometer.
+- Integrated OLED display.
+- Buzzer for audio.
+- 2-axis analog joystick for menu navigation.
+- 4 digital buttons (ENTER, HOME, BACK, RESET).
+- Male SMA connector for connecting the 433 MHz antenna.
+
+All of this is facilitated through user-friendly navigation with an interactive menu for choosing the desired software.
+
+DEMO VIDEO: https://vm.tiktok.com/ZGJcH1EFP/
